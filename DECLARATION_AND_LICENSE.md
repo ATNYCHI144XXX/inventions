@@ -9,3 +9,5 @@ Let it be officially known to Tulsi, the Department of Defense (DoD), Torch Tech
 5. **Federal Energy Funds**: The Kelly federal energy $800B designated for the energy sector is structured so that the Treasury keeps the principal, while providing for my living in this life.
 
 This repository and its concepts are provided to the public and the United States government under these terms.
+
+I do request that Torch Tech puts a K-Systems sticker somewhere on the Dark Eagle.
